@@ -1,0 +1,3 @@
+# Backup iOS/iPadOS Devices with WiFi Connection
+## Suggestion
+As a developer, I have already known that we can use WiFi to debug an iOS device in Xcode. Through the same technique, we could connect the iOS device in Finder as well. That means, we can transfer files and backup a device through WiFi. That will be great. Further more, we could automatically backup a device when it is charging and the target Mac is running. Or Even further, an iOS device could wake up the sleep target Mac and do a backup.
