@@ -7,3 +7,6 @@ For example, I set Chinese as my primary language and English as second. When a 
 If I removed English and leave only Chinese in System Settings. The "Auto" subtitle works. So the issue was on code level, you should use contain instead of equal. I assumed.
 
 Developer 10.0.4 (1004.1.3). macOS Monterey 12.4 (21F79).
+
+## ID
+FB10401388
